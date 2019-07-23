@@ -20,5 +20,7 @@
 
 #10 - This algorithm is checking whether n is a prime number.  O(n) - It is linear because as n gets bigger the number of operations grows proportionally. 
 
-#11 - 
+#11 - O(n^2) 
+
+#12 - 
 
