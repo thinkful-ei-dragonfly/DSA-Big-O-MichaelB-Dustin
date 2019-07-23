@@ -48,3 +48,15 @@ O(n)
 
 exercise 8
 O(log(n))
+
+exercize 9
+O(nlog(n))
+
+exercize10
+O(2^n)
+
+exercize11
+O(n)
+
+exercize12
+O(log(n))
