@@ -24,3 +24,27 @@
 
 #12 - 
 
+#13
+exercise 1
+O(n)
+
+exercise 2
+O(n)
+
+exercise 3
+O(n)
+
+exercise 4
+O(n)
+
+exercise 5
+O(n)
+
+exercise 6
+O(n)
+
+exercise 7
+O(n)
+
+exercise 8
+O(log(n))
